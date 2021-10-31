@@ -1,5 +1,5 @@
 # secure-password-generator
-*A program for creating a secure password*
+*Program for creating secure password*
 # How to use this program?
 1. Download the file from the repository to your device.
 2. Run the program and follow the instructions.
